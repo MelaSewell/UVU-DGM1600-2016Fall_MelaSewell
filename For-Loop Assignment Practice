@@ -1,0 +1,8 @@
+var hai = 15;
+
+for(i=0; i < hai; i++) {
+  console.log("You do not yet have enought Hai's, here is another hai! \nNow Mr. Teacher Man is in a good mood.");
+  if (i == hai) {
+    console.log("Now Mr. Teacher Man is sad. :(")
+  }
+}
